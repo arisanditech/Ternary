@@ -1,0 +1,8 @@
+Public class Nilai { 
+	public static void main(String[] args){
+		int nilai = 90;
+		int skbm = 75;
+
+		System.out.println( (nilai  skbm)  Nilai diatas rata - rata  Nilai dibawah rata - rata );
+	}
+}
